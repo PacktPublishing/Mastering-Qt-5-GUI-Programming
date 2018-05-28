@@ -1,0 +1,17 @@
+Source: colors
+Section: unknown
+Priority: optional
+Maintainer: hoff <hoff@debian.box>
+Build-Depends: 
+ debhelper (>= 9),
+ qt5-default
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/colors.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/colors.git
+
+Package: colors
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, qt5-default
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
