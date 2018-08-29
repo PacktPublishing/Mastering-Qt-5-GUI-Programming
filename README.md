@@ -18,7 +18,6 @@ Qt is a powerful, cross-platform graphic development framework. It provides a la
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course will appeal to Qt developers who wish to take their skill sets in Qt 5 to the next level. Basic Qt and C++ programming skills are assumed and will be needed in this course.	
 ### Technical Requirements
-This course has the following software requirements:<br/>
 
 Minimum Hardware Requirements<br/>
 <LI>OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
