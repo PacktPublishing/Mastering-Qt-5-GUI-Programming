@@ -6,9 +6,12 @@ Qt is a powerful, cross-platform graphic development framework. It provides a la
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>A Practical, guide to help you learn the application of Python and GUI programming with Tkinter</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Create multiple, cross-platform, real-world projects by integrating a host of third-party libraries and tools</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Learn to build beautiful and highly interactive user interfaces, targeting multiple devices.</SPAN> </LI></UL></DIV>
+<LI>Create advanced, custom model views and web views
+<LI>Show web contents in your GUI applications
+<LI>Extend your applications by incorporating the World Wide Web
+<LI>Communicate between Qt and Qt Quick, and advanced Qt Quick widgets and visual effects
+<LI>Play and capture multimedia and create 3D content in Qt
+<LI>Package Qt applications across different platforms and make the developer's life much easier</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
@@ -16,34 +19,23 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course will appeal to Qt developers who wish to take their skill sets in Qt 5 to the next level. Basic Qt and C++ programming skills are assumed and will be needed in this course.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
-For successful completion of this course, students will require the computer systems with at least the following:
 
-·         OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
+Minimum Hardware Requirements<br/>
+<LI>OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
+<LI>Processor: Intel Core i5 or equivalent
+<LI>Memory: 4 GB RAM
+<LI>Storage: 35 GB available space
 
-·         Processor: Intel Core i5 or equivalent
+Recommended Hardware Requirements<br/>
+<LI>OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
+<LI>Processor: Intel Core i7 or equivalent
+<LI>Memory: 8 GB RAM
+<LI>Storage: 35 GB available space
 
-·         Memory: 4 GB RAM
-
-·         Storage: 35 GB available space
-
-Recommended Hardware Requirements
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-
-·         OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
-
-·         Processor: Intel Core i7 or equivalent
-
-·         Memory: 8 GB RAM
-
-·         Storage: 35 GB available space
-
-Software Requirements
-·         OS: Windows 7 or Windows 10
-
-·         Browser: Google Chrome, Latest Version
-
-·         Code Editor: Qt Creator, Latest Version
+Software Requirements<br/>
+<LI>OS: Windows 7 or Windows 10
+<LI>Browser: Google Chrome, Latest Version
+<LI>Code Editor: Qt Creator, Latest Version
 
 
 ## Related Products
