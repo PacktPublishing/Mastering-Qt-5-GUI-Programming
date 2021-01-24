@@ -70,7 +70,7 @@ void ProcessManager::kill_process(QProcess* process, QString name)
 {
     qDebug() << "Killed process: " << name;
 
-#ifdef W_OS_WIN
+#ifdef Q_OS_WIN
     // Console applications on Windows that do not run an event loop,
     // or whose event loop does not handle the WM_CLOSE message, can only be terminated by calling kill
     process->kill();
